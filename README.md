@@ -8,4 +8,5 @@ This project has primarily 2 projects
 Both the projects need to be run in order to connect.
 
 Both projects have 3 options:
-i) Remote PC Access (Allows Server to Control Client PC
+i) Remote PC Access (Allows Server to Control Client PC)
+ii) File Transfer (Allows File transfer 
